@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41378631922",
+    "project_id": "storeapp-3e889",
+    "storage_bucket": "storeapp-3e889.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41378631922:android:07afe64d06ded60c98406b",
+        "android_client_info": {
+          "package_name": "co.edu.unab.damo.carlosmantilla.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbFhjvI4Z7UqcdcuoLIcPGMr2wsuOy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
